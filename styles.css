@@ -34,6 +34,7 @@ body .bg-img {
   width: 300px;
   margin-top: 10px;
   margin-left: 30px;
+  position: relative;
 }
 
 .main-section {
@@ -58,3 +59,22 @@ body .bg-img {
   text-align: center;
 }
 
+.main-section a {
+  display: block;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-decoration: none;
+  background-color: #fff;
+  color: hsl(257, 40%, 49%);
+  width: 70%;
+  height: 40px;
+  margin: 15px auto;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.footer-rrss ul li i {
+  color: #fff;
+}
