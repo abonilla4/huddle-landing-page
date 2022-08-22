@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {font-size: 62.2%;}
+
+/* =============================================================== */
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  background-color: hsl(257, 40%, 49%);
+}
+
+body .bg-img {
+  position: absolute;
+}
+
+.logo img {
+  width: 120px;
+  margin: 30px;
+}
+
+.main-image img {
+  width: 300px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
