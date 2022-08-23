@@ -144,6 +144,11 @@ body .bg-img {
     border-radius: 30px;
   }
 
+  .main-section a:hover {
+    background-color: hsl(300, 69%, 71%);
+    color: #fff;
+  }
+
   .footer-rrss--icons {
     justify-content: end;
     align-items: flex-end;
